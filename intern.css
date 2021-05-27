@@ -79,7 +79,7 @@ ul li {
 
 @font-face {
   font-family: customCursiveFont;
-  src: url("./aroma.ttf");
+  src: url("aroma.ttf");
 }
 
 .dateClass {
